@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">AKU PUPR v.2</string>
+
+    <string-array name="array_provinsi" >
+
+        <item>Lampung</item>
+
+    </string-array>
+
+    <string-array name="array_kabupaten" >
+        <item>Kota Bandar Lampung</item>
+        <item>Kabupaten Lampung Selatan</item>
+        <item>Kabupaten Lampung Tengah</item>
+        <item>Kabupaten Lampung Timur</item>
+        <item>Kabupaten Lampung Utara</item>
+        <item>Kabupaten Mesuji</item>
+        <item>Kabupaten Pesawaran</item>
+        <item>Kabupaten Pesisir Barat</item>
+        <item>Kabupaten Pringsewu</item>
+        <item>Kabupaten Tanggamus</item>
+        <item>Kabupaten Tulang Bawang Barat</item>
+        <item>Kabupaten Tulang Bawang</item>
+        <item>Kabupaten Way Kanan</item>
+        <item>Kabupaten Lampung Barat</item>
+        <item>Kota Metro</item>
+    </string-array>
+
+    <string-array name="array_penkon" >
+        <item>Kontraktor</item>
+        <item>Konsultan</item>
+
+    </string-array>
+
+    <string-array name="array_sktska" tittle="SKT/SKA">
+        <item>SKT</item>
+        <item>SKA</item>
+    </string-array>
+
+    <string name="sktska"> SKT/SKA </string>
+
+</resources>
